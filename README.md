@@ -18,7 +18,7 @@ https://online-platform-indiv-to-learn.netlify.app/
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/dharshini2284/Indiv.git
+   git clone https://github.com/sharmila-as/Indiv.git
    ```  
 2. Navigate to the project directory:  
    ```sh
@@ -46,7 +46,7 @@ https://online-platform-indiv-to-learn.netlify.app/
 5. Open a Pull Request.  
 
 ## **Contact**  
-For any queries, contact **[Dharshini A S](mailto:004dharshkumar@example.com)** or open an issue on **GitHub**.  
+For any queries, contact **[Sharmila](mailto:assharmila01@gmail.com)** or open an issue on **GitHub**.  
 
 ---
 
